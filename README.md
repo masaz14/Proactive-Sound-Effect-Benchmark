@@ -124,10 +124,5 @@ The CLI prints the absolute path of the stats JSON and the overall accuracy **be
 
 ## Citation
 
-If you use this benchmark in a paper or report, please cite both the GitHub repository and the Hugging Face dataset page (author details and BibTeX can be added to the dataset card).
 
----
 
-## License
-
-Please add the license information for audio and metadata in both the GitHub repository and the Hugging Face dataset card (and include upstream licenses if the audio comes from third-party sources).
