@@ -15,16 +15,6 @@ Download example (login may be required for gated/private assets):
 pip install -U huggingface_hub
 hf download masaz14/Proactive-Sound-Effect-Benchmark --repo-type=dataset --local-dir ./Proactive-Sound-Effect-Benchmark-data
 ```
-
-Or read via `datasets` (column names depend on the dataset schema):
-
-```python
-from datasets import load_dataset
-
-ds = load_dataset("masaz14/Proactive-Sound-Effect-Benchmark", split="train")
-# After saving audio locally, make sure your local layout matches the manifest `path` fields.
-```
-
 ---
 
 ## Repository layout
