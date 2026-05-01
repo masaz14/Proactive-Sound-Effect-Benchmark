@@ -27,7 +27,7 @@ hf download masaz14/Proactive-Sound-Effect-Benchmark --repo-type=dataset --local
 | `semantic.py` | Optional reranker-based similarity vs `standard_answers`. |
 | `evaluate.py` | CLI: align predictions to manifest, compute metrics, write stats JSON. |
 
-Model inference (running your model to produce predictions) is intentionally not included. You should run your model separately, write a predictions JSONL, then use this repository for offline alignment and scoring.
+You should run your model separately, write a predictions JSONL, then use this repository for offline alignment and scoring.
 
 ---
 
