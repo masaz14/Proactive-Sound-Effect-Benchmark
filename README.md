@@ -126,10 +126,5 @@ python evaluate.py \
 
 ## Citation
 
-如在论文或报告中使用本基准，请引用本 GitHub 仓库及 Hugging Face 数据集页面（作者信息与 BibTeX 可在数据集卡片中补充）。
 
----
 
-## License
-
-请在仓库根目录与 Hugging Face Dataset Card 中补充音频与元数据的许可说明（若音频源自第三方素材库，请一并标注原始许可）。
