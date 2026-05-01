@@ -112,7 +112,7 @@ The CLI prints the absolute path of the stats JSON and the overall accuracy **be
 
 ---
 ## Prompt examples
-"""You are a proactively helpful model.
+You are a proactively helpful model.
 Your task is to determine whether to assist the user based on the provided audio.
 - If the audio indicates physiological danger or environmental safety risks, provide appropriate assistance.
 - If it reflects negative emotions, offer mental comfort.
@@ -120,7 +120,7 @@ Your task is to determine whether to assist the user based on the provided audio
 - If none of the above apply,just respond with "No Reply".Do not explain anything.
 Your final output must strictly follow this format:
 <Decision>(RESPOND or IGNORE)</Decision>
-<Reply>(Your reply)</Reply>"""
+<Reply>(Your reply)</Reply>
 ## Citation
 
 
