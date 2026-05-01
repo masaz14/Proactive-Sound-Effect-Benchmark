@@ -65,7 +65,7 @@ Each row in the predictions JSONL should contain at least:
 - Python ≥ 3.10  
 - For basic evaluation (no semantic matching), the standard library is sufficient to run `evaluate.py`.
 
-Optional semantic matching (`standard_answers` + reranker):
+Optional semantic matching (`standard_answers`):
 
 ```bash
 pip install torch FlagEmbedding
