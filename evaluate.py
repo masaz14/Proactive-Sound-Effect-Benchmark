@@ -1,15 +1,3 @@
-"""
-Offline evaluation entrypoint (decoupled from model inference).
-
-Module roles:
-- ``core``: parse ``<Decision>/<Reply>``, valid-sample checks, path grouping helpers
-- ``semantic``: optional reranker-based semantic matching and metric aggregation
-- ``evaluate`` (this module): load benchmark manifest + predictions, align rows, write stats JSON
-
-CLI prints at the end: absolute path of ``--out``, then overall accuracy before/after semantic
-matching. Full breakdowns (by folder, domain, etc.) are written only to that stats JSON.
-"""
-
 from __future__ import annotations
 
 import argparse
