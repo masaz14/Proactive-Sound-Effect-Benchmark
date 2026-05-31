@@ -201,21 +201,5 @@ Your final output must strictly follow this format:
 
 ## Citation
 
-If you use this benchmark, please cite:
 
-```bibtex
-@misc{proactive-sound-effect-benchmark,
-  title        = {Proactive Sound Effect Benchmark},
-  author       = {masaz14},
-  year         = {2025},
-  howpublished = {\url{https://github.com/masaz14/Proactive-Sound-Effect-Benchmark}}
-}
-```
 
-Replace with your official publication entry when available.
-
----
-
-## License
-
-See the `LICENSE` file in the repository.
