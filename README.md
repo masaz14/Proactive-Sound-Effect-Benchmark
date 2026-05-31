@@ -8,7 +8,6 @@
 
 | Capability | Description |
 |------------|-------------|
-| **Sound understanding** | Infer scene and meaning from audio alone (no transcript) |
 | **Decision boundary** | Distinguish when to assist (`RESPOND`) vs stay silent (`IGNORE`) |
 | **Reply quality** | For `RESPOND` items, whether the reply is relevant and helpful (optional semantic match) |
 
