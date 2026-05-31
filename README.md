@@ -40,8 +40,6 @@ hf download masaz14/Proactive-Sound-Effect-Benchmark \
 
 **17** subcategories across **6** domains—daily living, human states, traffic, environment, music, and equipment—focused on proactive assistance and safety.
 
-![Data distribution](assets/benchmark-data-composition.png)
-
 <details>
 <summary>Subcategory counts (click to expand)</summary>
 
