@@ -20,7 +20,7 @@ Each sample has a ground-truth `decision`. The `RESPOND` subset includes referen
 | Resource | Link |
 |----------|------|
 | Code & manifests | [github.com/masaz14/Proactive-Sound-Effect-Benchmark](https://github.com/masaz14/Proactive-Sound-Effect-Benchmark) |
-| Audio (dataset) | [masaz14/Proactive-Sound-Effect-Benchmark](https://huggingface.co/datasets/masaz14/Proactive-Sound-Effect-Benchmark) |
+| Audio (dataset) | [(https://huggingface.co/datasets/masaz14/Proactive-Sound-Effect-Benchmark)|
 
 The Hugging Face layout matches manifest `path` fields (root folder: `proactive-sound-effect`).
 
